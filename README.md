@@ -59,4 +59,4 @@ Note:
 
 If the code provided is helpful in your research, kindly cite the original paper:
 
-> Bozhen Jiang, Yidi Wang, Qin Wang, Hua Geng and Yanni Li. "A Novel Interpretable Short-term Probabilistic Load Forecasting Method based on Kolmogorov-Arnold Networks" TechRxiv, 2024.
+> Bozhen Jiang, Yidi Wang, Qin Wang, Hua Geng and Yanni Li. "A Novel Interpretable Short-term Probabilistic Load Forecasting Method based on Kolmogorov-Arnold Networks" TechRxiv, September 19, 2024. DOI: 10.36227/techrxiv.172676826.67820105/v1
